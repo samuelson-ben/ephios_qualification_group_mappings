@@ -1,0 +1,35 @@
+# ephios_qualifications_to_user_groups
+# Copyright (C) 2025
+# This file is distributed under the same license as the ephios_qualifications_to_user_groups package.
+# Ben Samuelson <ben.samuelson@fiteka.de>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-14 17:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ben Samuelson <ben.samuelson@fiteka.de>\n"
+"Language-Team: Ben Samuelson <ben.samuelson@fiteka.de>\n"
+"Language: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: apps.py:8
+msgid "Qualifications to Group translations"
+msgstr "Qualifikationen in Gruppen übersetzen"
+
+#: apps.py:10
+msgid "Adding users to groups based on their qualifications in ephios"
+msgstr "Fügt Nutzer basierend ihrer Qualifikationen zu Gruppen hinzu"
+
+#: permissions.py:6
+msgid "Can manage qualification-to-group mappings"
+msgstr "Kann die Qualifikationen-zu-Gruppen EInstellungen verwalten"
+
+#: signals.py:13
+msgid "Qualifications to Groups"
+msgstr "Qualifikationen in Gruppen übersetzen"
